@@ -88,8 +88,11 @@ carro: procurando meu próprio Baby (Impala 67) 🚗
 
 </div>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=rj5a80vq93ic4xzotsorbit3r&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&profanity=false&hide_remaster=false&bar_color=47008f)](https://spotify-github-profile.kittinanx.com/api/view?uid=rj5a80vq93ic4xzotsorbit3r&redirect=true)
-
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=rj5a80vq93ic4xzotsorbit3r&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=6e00db&bar_color_cover=false">
+  </a>
+</p>
 <br>
 
 ## 📡 Como me Encontrar (Salve o Bunker)
