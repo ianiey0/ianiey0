@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1a1a2e&height=200&section=header&text=Daniela%20Guerrero&fontSize=45&fontColor=e63946&animation=fadeIn&fontAlignY=38&desc=aka%20danecas%20%7C%20Hunter%20de%20Bugs%20%40%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:3d0000,100:8b0000&height=200&section=header&text=Daniela%20Guerrero&fontSize=45&fontColor=f2a900&animation=fadeIn&fontAlignY=38&desc=aka%20danecas%20%7C%20Hunter%20de%20Bugs%20%40%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o&descAlignY=58&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=%22Saving+people%2C+hunting+bugs%2C+the+family+business%22;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Aprendendo+Python+%2F+Data%3B+e+muito+mais...;Fã+n%C3%BAmero+1+de+Supernatural+%F0%9F%9A%97" alt="Typing SVG" />
 
@@ -77,6 +77,21 @@ carro: procurando meu próprio Baby (Impala 67) 🚗
 
 <br>
 
+## 🎧 Trilha Sonora do Impala (Spotify)
+
+<div align="center">
+
+[![Spotify](https://img.shields.io/badge/Spotify-0a0a0a?style=for-the-badge&logo=spotify&logoColor=1DB954)](https://open.spotify.com/user/rj5a80vq93ic4xzotsorbit3r)
+
+<!-- 🔊 Widget "tocando agora" — veja a nota logo abaixo pra ativar -->
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=rj5a80vq93ic4xzotsorbit3r&cover_image=true&theme=default&show_offline=true&background_color=0a0a0a&interchange=false&bar_color=8b0000&bar_color_cover=false" width="380" />
+
+</div>
+
+> ⚠️ **Nota da caçada:** o widget "tocando agora" só funciona depois de você autorizar sua conta em [spotify-github-profile.vercel.app](https://spotify-github-profile.vercel.app/) (é rapidinho, só logar com Spotify). Depois de autorizar, ele te dá um `uid` — troque o `rj5a80vq93ic4xzotsorbit3r` na URL acima por esse `uid` (não é o mesmo código do link do seu perfil). Sem esse passo, o card pode aparecer vazio ou offline.
+
+<br>
+
 ## 📡 Como me Encontrar (Salve o Bunker)
 
 <div align="center">
@@ -91,6 +106,6 @@ carro: procurando meu próprio Baby (Impala 67) 🚗
 
 *"Carry on, my wayward son... e minhas branches também."* 🎸
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1a1a2e&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:3d0000,100:8b0000&height=100&section=footer" width="100%"/>
 
 </div>
