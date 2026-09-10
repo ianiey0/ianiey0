@@ -88,7 +88,7 @@ carro: procurando meu próprio Baby (Impala 67) 🚗
 
 </div>
 
-> ⚠️ **Nota da caçada:** o widget "tocando agora" só funciona depois de você autorizar sua conta em [spotify-github-profile.vercel.app](https://spotify-github-profile.vercel.app/) (é rapidinho, só logar com Spotify). Depois de autorizar, ele te dá um `uid` — troque o `rj5a80vq93ic4xzotsorbit3r` na URL acima por esse `uid` (não é o mesmo código do link do seu perfil). Sem esse passo, o card pode aparecer vazio ou offline.
+> ⚠️ **Nota da caçada:** o widget "tocando agora" só funciona depois de você autorizar sua conta em [spotify-github-profile.vercel.app](spotify-github-profile.kittinanx.com) (é rapidinho, só logar com Spotify). Depois de autorizar, ele te dá um `uid` — troque o `rj5a80vq93ic4xzotsorbit3r` na URL acima por esse `uid` (não é o mesmo código do link do seu perfil). Sem esse passo, o card pode aparecer vazio ou offline.
 
 <br>
 
