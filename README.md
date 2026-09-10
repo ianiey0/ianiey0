@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:3d0000,100:8b0000&height=200&section=header&text=Daniela%20Guerrero&fontSize=45&fontColor=f2a900&animation=fadeIn&fontAlignY=38&desc=aka%20danecas%20%7C%20Hunter%20de%20Bugs%20%40%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=%22Saving+people%2C+hunting+bugs%2C+the+family+business%22;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Aprendendo+Python+%2F+Data%3B+e+muito+mais...;Fã+n%C3%BAmero+1+de+Supernatural+%F0%9F%9A%97" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=%22Saving+people%2C+hunting+bugs%2C+the+family+business%22;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Aprendendo+Python+%2F+Data%3B+e+muito+mais...;Fã+n%C3%BAmero+1+de+Supernatural+%F0%9F%9A%97" />
 
 </div>
 
