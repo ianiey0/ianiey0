@@ -66,12 +66,15 @@ status_atual: "acordando dentro de mais um bug estranho"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ianiey0&show_icons=true&theme=dark&hide_border=true&bg_color=121212&title_color=B57BFF&icon_color=B57BFF&text_color=c9c9c9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ianiey0&theme=dark&hide_border=true&background=121212&ring=6e00db&fire=6e00db&currStreakLabel=B57BFF" width="48%" />
+<img src="https://github-readme-stats-eu-mesma2.vercel.app/api?username=ianiey0&show_icons=true&theme=dark&hide_border=true&bg_color=121212&title_color=B57BFF&icon_color=B57BFF&text_color=c9c9c9" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=ianiey0&theme=dark&hide_border=true&background=121212&ring=6e00db&fire=6e00db&currStreakLabel=B57BFF" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianiey0&layout=compact&theme=dark&hide_border=true&bg_color=121212&title_color=B57BFF&text_color=c9c9c9" width="48%" />
+<img src="https://github-readme-stats-eu-mesma2.vercel.app/api/top-langs/?username=ianiey0&layout=compact&theme=dark&hide_border=true&bg_color=121212&title_color=B57BFF&text_color=c9c9c9" width="48%" />
 
 </div>
+
+<!-- Instância própria hospedada na Vercel — não depende mais do serviço público compartilhado -->
+
 
 <br>
 
